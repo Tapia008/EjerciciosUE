@@ -1646,3 +1646,470 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.14-17.38.11:191][ 22]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.04.14-17.38.11:844][ 24]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-FMg44ixJf0q_Cig0KG7FzQ-uwdyuJTzSkOazA3WYPhZcQ]
 [2025.04.14-17.39.40:962][703]LogDerivedDataCache: C:/Users/Bibiana Tapia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.010 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.14-17.43.32:141][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 336.754181
+[2025.04.14-17.43.33:145][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-17.43.33:145][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.416718, Update Interval: 329.356354
+[2025.04.14-17.49.05:338][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.952087
+[2025.04.14-17.49.06:344][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-17.49.06:346][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 670.615479, Update Interval: 316.474487
+[2025.04.14-17.53.04:743][868]LogHttp: Warning: 0000097BE7837000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 0 (Found bundle for host: 0x97bc80402a0 [serially])
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 6 (Closing connection)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBCDB2A7C-4062-5290-2243-149954CDFF88%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 9 (  Trying 44.217.66.255:443...)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (44.217.66.255) port 443)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 12 (SSL reusing session ID)
+[2025.04.14-17.53.04:744][868]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.04.14-17.53.04:746][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 23 (Server certificate:)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 30 (using HTTP/1.1)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 32 (Closing connection)
+[2025.04.14-17.53.04:748][869]LogHttp: Warning: 0000097BE7837000: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.14-17.53.56:423][ 23]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.14-17.53.56:425][ 23]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.14-17.53.56:425][ 23]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: libcurl info message cache 0 (Found bundle for host: 0x97c47880090 [serially])
+[2025.04.14-17.53.56:425][ 23]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.04.14-17.53.56:425][ 23]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: libcurl info message cache 2 (Closing connection)
+[2025.04.14-17.53.56:425][ 23]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B
+[2025.04.14-17.53.57:750][ 27]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B
+[2025.04.14-17.53.58:081][ 28]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.14-17.53.58:081][ 28]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.14-17.53.58:081][ 28]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: libcurl info message cache 3 (Found bundle for host: 0x97c47880090 [serially])
+[2025.04.14-17.53.58:081][ 28]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.14-17.53.58:081][ 28]LogEOSSDK: Warning: LogHttp: 0000097BE7D3DE00: libcurl info message cache 5 (Closing connection)
+[2025.04.14-17.53.58:081][ 28]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B
+[2025.04.14-17.53.59:088][ 31]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B
+[2025.04.14-17.54.00:751][ 36]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=9E265C8F4C92E2530586249707DADA0B
+[2025.04.14-17.54.27:087][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 991.700500
+[2025.04.14-17.54.28:092][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-17.54.28:092][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 992.368835, Update Interval: 325.221710
+[2025.04.14-18.00.04:511][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1329.124634
+[2025.04.14-18.00.05:509][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-18.00.05:509][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1329.794678, Update Interval: 354.376648
+[2025.04.14-18.00.46:968][250]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.04.14-18.01.05:031][251]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.04.14-18.01.05:044][251]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6700
+[2025.04.14-18.01.05:712][253]LogHttp: Warning: 0000097BE7832300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.14-18.01.05:712][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 0 (Found bundle for host: 0x97bc8040ea0 [serially])
+[2025.04.14-18.01.05:714][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.04.14-18.01.05:714][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 7 (Closing connection)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBCDB2A7C-4062-5290-2243-149954CDFF88%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 12 (  Trying 18.233.90.49:443...)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (18.233.90.49) port 443)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 15 (SSL reusing session ID)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 26 (Server certificate:)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 28 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 29 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 33 (using HTTP/1.1)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 35 (Closing connection)
+[2025.04.14-18.01.05:715][253]LogHttp: Warning: 0000097BE7832300: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.14-18.01.07:031][257]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.04.14-18.01.07:119][257]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8e494d1e-d09f-42c4-9176-a7eae1ba5a02}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1705.44
+[2025.04.14-18.01.07:122][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.14-18.01.07:135][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.14-18.02.06:017][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-18.02.06:117][466]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.14-18.02.06:118][466]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.14-18.02.06:187][466]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 68.618 ms
+[2025.04.14-18.02.06:211][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-18.02.06:293][466]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.14-18.02.06:294][466]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.14-18.02.06:301][466]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.14-18.02.06:462][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155275s)
+[2025.04.14-18.02.06:462][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.160782s)
+[2025.04.14-18.02.07:108][466]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2025.04.14-18.02.07:135][466]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.14-18.02.07:197][466]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.14-18.02.07:197][466]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.14-18.02.07:197][466]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.14-18.02.07:197][466]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.14-18.02.07:203][466]LogWorldPartition: Display: WorldPartition initialize took 6.807 ms (total: 76.791 ms)
+[2025.04.14-18.02.07:206][466]LogPlayLevel: PIE: World Init took: (0.072996s)
+[2025.04.14-18.02.07:209][466]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-18.02.07:210][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-18.02.07:210][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-18.02.07:214][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-18.02.07:214][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-18.02.07:214][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-18.02.07:219][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-18.02.07:355][466]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.04.14-18.02.07:359][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-18.02.07:359][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-18.02.07:360][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-18.02.07:370][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.14-18.02.07:370][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.14-18.02.07:375][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.14-18.02.07:375][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.14-18.02.07:375][466]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.14-18.02.07:375][466]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.04.14-18.02.07:376][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.14-18.02.07:413][466]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.14-18.02.07:439][466]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.04.14-13.02.07
+[2025.04.14-18.02.07:441][466]LogWorld: Bringing up level for play took: 0.022420
+[2025.04.14-18.02.07:451][466]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.04.14-18.02.07:731][466]PIE: Server logged in
+[2025.04.14-18.02.07:732][466]PIE: Play in editor total start time 1,628 seconds.
+[2025.04.14-18.02.08:097][468]LogSlate: Took 0.001924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.14-18.02.10:409][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-18.02.10:409][514]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.14-18.02.10:416][514]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-18.02.10:418][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-18.02.10:418][514]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.14-18.02.10:459][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-18.02.10:465][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-18.02.10:483][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-18.02.10:483][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.14-18.02.10:484][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.14-18.02.10:487][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.14-18.02.10:518][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.14-18.02.10:736][515]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.04.14-18.05.19:200][ 55]LogSlate: Took 0.002114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.14-18.05.26:607][439]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.14-18.05.26:616][439]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.14-18.05.26:626][440]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.14-18.05.30:580][600]LogContentBrowser: Attempting asset rename: NewFolder -> Muñequito
+[2025.04.14-18.05.30:595][600]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.14-18.05.46:961][891]LogStreaming: Display: FlushAsyncLoading(389): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.05.47:036][891]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bibiana Tapia/Downloads/Breathing Idle(1).fbx]
+[2025.04.14-18.05.57:234][891]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.14-18.05.57:305][891]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.04.14-18.06.02:047][891]LogSlate: Window 'Import Content' being destroyed
+[2025.04.14-18.06.02:128][891]LogInterchangeEngine: [Pending] Importing
+[2025.04.14-18.06.02:226][892]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.02:970][914]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.03:812][948]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.04:038][950]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.05:100][988]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.05:167][990]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Breathing_Idle_1__Anim.Breathing_Idle_1__Anim (Required Memory Estimate: 3.36 MB)
+[2025.04.14-18.06.05:295][990]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Muñequito/Breathing_Idle_1__Anim.Breathing_Idle_1__Anim, at AnimationSequence/411d95103e4cdce2f80cbb34f06575dd531a5eea
+[2025.04.14-18.06.05:413][990]LogTexture: Display: Building textures: /Game/Characters/Muñequito/Ch19_1001_Diffuse.Ch19_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.14-18.06.05:519][992]LogTexture: Display: Waiting for textures to be ready 0/4 (/Game/Characters/Muñequito/Ch19_1001_Normal) ...
+[2025.04.14-18.06.06:237][992]LogTexture: Display: Building textures: /Game/Characters/Muñequito/Ch19_1001_Normal.Ch19_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.14-18.06.06:596][992]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.14-18.06.06:861][992]LogTexture: Display: Waiting for textures to be ready 2/4 (/Game/Characters/Muñequito/Ch19_1001_Specular) ...
+[2025.04.14-18.06.06:889][992]LogTexture: Display: Building textures: /Game/Characters/Muñequito/Ch19_1001_Specular.Ch19_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.14-18.06.07:037][992]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.14-18.06.07:252][992]LogTexture: Display: Waiting for textures to be ready 3/4 (/Game/Characters/Muñequito/Ch19_1001_Glossiness) ...
+[2025.04.14-18.06.07:252][992]LogTexture: Display: Building textures: /Game/Characters/Muñequito/Ch19_1001_Glossiness.Ch19_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2025.04.14-18.06.07:435][992]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.14-18.06.07:839][992]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.14-18.06.07:933][992]LogSkeletalMesh: Building Skeletal Mesh Breathing_Idle_1_...
+[2025.04.14-18.06.07:939][992]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.14-18.06.09:192][ 28]LogSkeletalMesh: Built Skeletal Mesh [1.26s] /Game/Characters/Muñequito/Breathing_Idle_1_.Breathing_Idle_1_
+[2025.04.14-18.06.09:296][ 30]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Breathing_Idle_1_) ...
+[2025.04.14-18.06.09:317][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.04.14-18.06.09:324][ 30]LogMaterial: Display: Material /Game/Characters/Muñequito/Ch19_Body.Ch19_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.04.14-18.06.09:336][ 30]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-18.06.09:336][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-18.06.09:375][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.14-18.06.09:433][ 31]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Bibiana Tapia/Downloads/Breathing Idle(1).fbx]
+[2025.04.14-18.06.09:436][ 31]Interchange: Error: [C:/Users/Bibiana Tapia/Downloads/Breathing Idle(1).fbx : '', AnimSequence] Animation length 8,68 is not compatible with import frame-rate 30 fps (sub frame 0,4). The animation has to be frame-border aligned.
+[2025.04.14-18.06.09:436][ 31]Interchange: Warning: [C:/Users/Bibiana Tapia/Downloads/Breathing Idle(1).fbx : 'Breathing_Idle_1_', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.04.14-18.06.09:751][ 31]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.14-18.06.09:751][ 31]LogInterchangeEngine: [Success] Import Done
+[2025.04.14-18.06.09:805][ 32]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.14-18.06.21:737][509]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.04.14-18.06.21:810][510]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.04.14-18.06.21:914][513]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2025.04.14-18.06.22:011][516]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.04.14-18.06.27:065][685]LogSlate: Window 'Message Log' being destroyed
+[2025.04.14-18.06.27:076][685]LogSlate: Window 'Message Log' being destroyed
+[2025.04.14-18.06.31:096][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1715.700073
+[2025.04.14-18.06.31:269][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-18.06.31:269][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1715.874390, Update Interval: 327.378754
+[2025.04.14-18.06.34:814][944]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.34:878][944]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bibiana Tapia/Downloads/Brutal To Happy Walking.fbx]
+[2025.04.14-18.06.39:018][944]LogSlate: Window 'Import Content' being destroyed
+[2025.04.14-18.06.39:095][944]LogInterchangeEngine: [Pending] Importing
+[2025.04.14-18.06.39:543][947]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.39:583][948]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Brutal_To_Happy_Walking.Brutal_To_Happy_Walking (Required Memory Estimate: 0.52 MB)
+[2025.04.14-18.06.39:613][949]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Brutal_To_Happy_Walking.Brutal_To_Happy_Walking (Required Memory Estimate: 0.52 MB)
+[2025.04.14-18.06.39:637][949]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Brutal_To_Happy_Walking.Brutal_To_Happy_Walking (Required Memory Estimate: 0.52 MB)
+[2025.04.14-18.06.39:655][949]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Muñequito/Brutal_To_Happy_Walking.Brutal_To_Happy_Walking, at AnimationSequence/b4ba0d1ba6fc8dd4fa704ccf5db63085261f9d5d
+[2025.04.14-18.06.39:660][949]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Bibiana Tapia/Downloads/Brutal To Happy Walking.fbx]
+[2025.04.14-18.06.39:674][949]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.14-18.06.39:675][949]LogInterchangeEngine: [Success] Import Done
+[2025.04.14-18.06.48:224][104]LogStreaming: Display: FlushAsyncLoading(405): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.06.48:285][104]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bibiana Tapia/Downloads/Standing Jump.fbx]
+[2025.04.14-18.06.59:874][104]LogSlate: Window 'Import Content' being destroyed
+[2025.04.14-18.06.59:945][104]LogInterchangeEngine: [Pending] Importing
+[2025.04.14-18.07.00:173][107]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.07.00:243][108]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Standing_Jump.Standing_Jump (Required Memory Estimate: 0.92 MB)
+[2025.04.14-18.07.00:261][108]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Bibiana Tapia/Downloads/Standing Jump.fbx]
+[2025.04.14-18.07.00:267][108]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.14-18.07.00:267][108]LogInterchangeEngine: [Success] Import Done
+[2025.04.14-18.07.00:279][109]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Muñequito/Standing_Jump.Standing_Jump, at AnimationSequence/f4ea5addc0349abc74cac013af53c96bf13e11eb
+[2025.04.14-18.07.08:389][235]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.07.08:454][235]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bibiana Tapia/Downloads/Turn Left.fbx]
+[2025.04.14-18.07.09:811][235]LogSlate: Window 'Import Content' being destroyed
+[2025.04.14-18.07.09:891][235]LogInterchangeEngine: [Pending] Importing
+[2025.04.14-18.07.10:023][237]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.07.10:129][238]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Turn_Left.Turn_Left (Required Memory Estimate: 0.40 MB)
+[2025.04.14-18.07.10:137][238]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Muñequito/Turn_Left.Turn_Left (Required Memory Estimate: 0.40 MB)
+[2025.04.14-18.07.10:147][238]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Muñequito/Turn_Left.Turn_Left, at AnimationSequence/dd7bb8baebae55e55bb5e1a3f8a6945080a751d3
+[2025.04.14-18.07.10:155][238]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Bibiana Tapia/Downloads/Turn Left.fbx]
+[2025.04.14-18.07.10:158][238]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.14-18.07.10:159][238]LogInterchangeEngine: [Success] Import Done
+[2025.04.14-18.07.21:516][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.14-18.07.26:417][390]LogSlate: Window 'Save Content' being destroyed
+[2025.04.14-18.07.26:437][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-18.07.26:543][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Breathing_Idle_1_] ([1] browsable assets)...
+[2025.04.14-18.07.26:654][390]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Muñequito/Breathing_Idle_1_.Breathing_Idle_1_]
+[2025.04.14-18.07.26:655][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Breathing_Idle_1_]
+[2025.04.14-18.07.26:731][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Breathing_Idle_1_
+[2025.04.14-18.07.26:731][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Breathing_Idle_1_8EF7F0E74BF668F7A02339917E6D3ACF.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Breathing_Idle_1_.uasset'
+[2025.04.14-18.07.26:747][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Breathing_Idle_1__Anim] ([1] browsable assets)...
+[2025.04.14-18.07.26:782][390]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Muñequito/Breathing_Idle_1__Anim.Breathing_Idle_1__Anim]
+[2025.04.14-18.07.26:782][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Breathing_Idle_1__Anim]
+[2025.04.14-18.07.26:801][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Breathing_Idle_1__Anim
+[2025.04.14-18.07.26:801][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Breathing_Idle_1__AnimC8A9D3C54ED3AB550A4D2D8580B1CB44.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Breathing_Idle_1__Anim.uasset'
+[2025.04.14-18.07.26:803][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Breathing_Idle_1__PhysicsAsset] ([1] browsable assets)...
+[2025.04.14-18.07.26:837][390]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Muñequito/Breathing_Idle_1__PhysicsAsset.Breathing_Idle_1__PhysicsAsset]
+[2025.04.14-18.07.26:837][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Breathing_Idle_1__PhysicsAsset]
+[2025.04.14-18.07.26:842][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Breathing_Idle_1__PhysicsAsset
+[2025.04.14-18.07.26:842][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Breathing_Idle_1__PhysicsAssetB0F8E29A4A4E2D2F9F9057A1CA519324.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Breathing_Idle_1__PhysicsAsset.uasset'
+[2025.04.14-18.07.26:844][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Breathing_Idle_1__Skeleton] ([1] browsable assets)...
+[2025.04.14-18.07.26:880][390]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Muñequito/Breathing_Idle_1__Skeleton.Breathing_Idle_1__Skeleton]
+[2025.04.14-18.07.26:880][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Breathing_Idle_1__Skeleton]
+[2025.04.14-18.07.26:882][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Breathing_Idle_1__Skeleton
+[2025.04.14-18.07.26:882][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Breathing_Idle_1__SkeletonE2ECBBEC4D8E71206A49D9BFB6B41928.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Breathing_Idle_1__Skeleton.uasset'
+[2025.04.14-18.07.26:883][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Brutal_To_Happy_Walking] ([1] browsable assets)...
+[2025.04.14-18.07.26:919][390]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Muñequito/Brutal_To_Happy_Walking.Brutal_To_Happy_Walking]
+[2025.04.14-18.07.26:919][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Brutal_To_Happy_Walking]
+[2025.04.14-18.07.26:925][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Brutal_To_Happy_Walking
+[2025.04.14-18.07.26:925][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Brutal_To_Happy_WalkingE14BE380428219017AFB7E8D9C86F53C.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Brutal_To_Happy_Walking.uasset'
+[2025.04.14-18.07.26:926][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Ch19_1001_Diffuse] ([1] browsable assets)...
+[2025.04.14-18.07.26:928][390]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Muñequito/Ch19_1001_Diffuse.Ch19_1001_Diffuse]
+[2025.04.14-18.07.26:928][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Ch19_1001_Diffuse]
+[2025.04.14-18.07.27:244][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Ch19_1001_Diffuse
+[2025.04.14-18.07.27:244][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Ch19_1001_Diffuse8217FFF546E47C323965ED93A6CC0EFC.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Ch19_1001_Diffuse.uasset'
+[2025.04.14-18.07.27:248][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Ch19_1001_Glossiness] ([1] browsable assets)...
+[2025.04.14-18.07.27:250][390]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Muñequito/Ch19_1001_Glossiness.Ch19_1001_Glossiness]
+[2025.04.14-18.07.27:250][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Ch19_1001_Glossiness]
+[2025.04.14-18.07.27:336][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Ch19_1001_Glossiness
+[2025.04.14-18.07.27:336][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Ch19_1001_Glossiness6DD189A848F10BEC627F779B7563FCB6.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Ch19_1001_Glossiness.uasset'
+[2025.04.14-18.07.27:338][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Ch19_1001_Normal] ([1] browsable assets)...
+[2025.04.14-18.07.27:339][390]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Muñequito/Ch19_1001_Normal.Ch19_1001_Normal]
+[2025.04.14-18.07.27:339][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Ch19_1001_Normal]
+[2025.04.14-18.07.27:730][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Ch19_1001_Normal
+[2025.04.14-18.07.27:730][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Ch19_1001_Normal4D9479C847AF1CC03E9D149144878BE4.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Ch19_1001_Normal.uasset'
+[2025.04.14-18.07.27:732][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Ch19_1001_Specular] ([1] browsable assets)...
+[2025.04.14-18.07.27:733][390]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Muñequito/Ch19_1001_Specular.Ch19_1001_Specular]
+[2025.04.14-18.07.27:733][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Ch19_1001_Specular]
+[2025.04.14-18.07.27:834][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Ch19_1001_Specular
+[2025.04.14-18.07.27:835][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Ch19_1001_Specular1DF563084E337986F02607AB6EFD58E2.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Ch19_1001_Specular.uasset'
+[2025.04.14-18.07.27:839][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Ch19_Body] ([1] browsable assets)...
+[2025.04.14-18.07.27:871][390]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Muñequito/Ch19_Body.Ch19_Body]
+[2025.04.14-18.07.27:871][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Ch19_Body]
+[2025.04.14-18.07.27:871][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Muñequito/Ch19_Body" FILE="../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Ch19_Body.uasset" SILENT=true
+[2025.04.14-18.07.27:879][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Ch19_Body
+[2025.04.14-18.07.27:879][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Ch19_Body09F351AC47BC01F868EBBEB83ECD7160.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Ch19_Body.uasset'
+[2025.04.14-18.07.27:882][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Standing_Jump] ([1] browsable assets)...
+[2025.04.14-18.07.27:915][390]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Muñequito/Standing_Jump.Standing_Jump]
+[2025.04.14-18.07.27:915][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Standing_Jump]
+[2025.04.14-18.07.27:924][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Standing_Jump
+[2025.04.14-18.07.27:924][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Standing_JumpA0F54AF741D8D0430388028138197166.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Standing_Jump.uasset'
+[2025.04.14-18.07.27:925][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/Turn_Left] ([1] browsable assets)...
+[2025.04.14-18.07.27:958][390]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Muñequito/Turn_Left.Turn_Left]
+[2025.04.14-18.07.27:958][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Turn_Left]
+[2025.04.14-18.07.27:958][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Muñequito/Turn_Left" FILE="../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Turn_Left.uasset" SILENT=true
+[2025.04.14-18.07.27:965][390]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Turn_Left
+[2025.04.14-18.07.27:965][390]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Turn_LeftBA065C3146C3B00942AE32B334FBCC90.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Turn_Left.uasset'
+[2025.04.14-18.07.27:975][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.53 sec (total: 2.13 sec)
+[2025.04.14-18.07.28:054][390]LogContentValidation: Display: Starting to validate 12 assets
+[2025.04.14-18.07.28:054][390]LogContentValidation: Enabled validators:
+[2025.04.14-18.07.28:054][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-18.07.28:055][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-18.07.28:055][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-18.07.28:055][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-18.07.28:055][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-18.07.28:055][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Breathing_Idle_1_ Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Breathing_Idle_1__Anim Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Breathing_Idle_1__PhysicsAsset Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Breathing_Idle_1__Skeleton Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Brutal_To_Happy_Walking Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Ch19_1001_Diffuse Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Ch19_1001_Glossiness Validating asset
+[2025.04.14-18.07.28:056][390]AssetCheck: /Game/Characters/Muñequito/Ch19_1001_Normal Validating asset
+[2025.04.14-18.07.28:058][390]AssetCheck: /Game/Characters/Muñequito/Ch19_1001_Specular Validating asset
+[2025.04.14-18.07.28:058][390]AssetCheck: /Game/Characters/Muñequito/Ch19_Body Validating asset
+[2025.04.14-18.07.28:058][390]AssetCheck: /Game/Characters/Muñequito/Standing_Jump Validating asset
+[2025.04.14-18.07.28:058][390]AssetCheck: /Game/Characters/Muñequito/Turn_Left Validating asset
+[2025.04.14-18.07.32:642][564]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.04.14-18.07.34:199][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.14-18.07.34:203][605]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.04.14-18.07.34:505][605]LogStreaming: Display: FlushAsyncLoading(409): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.14-18.07.36:911][605]LogSlate: Took 0.000917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.14-18.07.37:280][608]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.04.14-18.07.39:780][708]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.04.14-18.07.47:531][125]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.14-18.07.55:426][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.14-18.07.56:433][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-18.07.56:515][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.14-18.07.56:599][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.04.14-18.07.56:600][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.04.14-18.07.56:616][616]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.14-18.07.56:617][616]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BP_ThirdPersonCharacterBC607BAE4E04A4833D2D1B807460418E.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.14-18.07.56:626][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.140 ms (total: 2.32 sec)
+[2025.04.14-18.07.56:693][616]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-18.07.56:693][616]LogContentValidation: Enabled validators:
+[2025.04.14-18.07.56:693][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-18.07.56:693][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-18.07.56:693][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-18.07.56:693][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-18.07.56:693][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-18.07.56:693][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-18.07.56:694][616]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: ================================================
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: Total job queries 1361, among them cache hits 214 (15.72%), DDC hits 1132 (83.17%), Duplicates 4 (0.29%)
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: Tracking 1143 distinct input hashes that result in 885 distinct outputs (77.43%)
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: RAM used: 571,34 KiB of 409,60 MiB budget. Usage: 0.14%
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.04.14-18.08.08:061][361]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Job execution time: average 11.16 s, max 12.21 s
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Job life time (pending + execution): average 11.25 s, max 12.32
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Shader code size: average 10,731 KiB, min 6,129 KiB, max 14,297 KiB
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.32 s
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 2.75 jobs/batch
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Average processing rate: 0.89 jobs/sec
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Total thread time: 29,535 s
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Total thread preprocess time: 23,253 s
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Percentage time preprocessing: 78.73%
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 5.49 sec, max 5.53 sec, min 5.45 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 4.07 sec, max 4.07 sec, min 4.07 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 3.44 sec, max 3.44 sec, min 3.44 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.94 sec, max 2.12 sec, min 1.76 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                             FDebugViewModePS - 37.18% of total time (compiled    2 times, average 5.49 sec, max 5.53 sec, min 5.45 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.76% of total time (compiled    1 times, average 4.07 sec, max 4.07 sec, min 4.07 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.15% of total time (compiled    2 times, average 1.94 sec, max 2.12 sec, min 1.76 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.66% of total time (compiled    1 times, average 3.44 sec, max 3.44 sec, min 3.44 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.03% of total time (compiled    2 times, average 1.19 sec, max 1.36 sec, min 1.01 sec)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: === Material stats ===
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Materials Translated:    138
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Material Translation Only: 0.07 s (50%)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.04.14-18.08.08:063][361]LogShaderCompilers: Display: ================================================
+[2025.04.14-18.08.16:283][896]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-18.08.16:296][896]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.14-18.08.16:296][896]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.14-18.08.16:308][896]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 12.537 ms (total: 81.155 ms)
+[2025.04.14-18.08.16:309][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-18.08.16:309][896]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.14-18.08.16:314][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004114s)
+[2025.04.14-18.08.16:314][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004153s)
+[2025.04.14-18.08.16:340][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.14-18.08.16:344][896]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.14-18.08.16:345][896]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.14-18.08.16:345][896]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.14-18.08.16:345][896]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.14-18.08.16:345][896]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.14-18.08.16:346][896]LogWorldPartition: Display: WorldPartition initialize took 1.320 ms (total: 78.111 ms)
+[2025.04.14-18.08.16:346][896]LogPlayLevel: PIE: World Init took: (0.003440s)
+[2025.04.14-18.08.16:347][896]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-18.08.16:347][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-18.08.16:347][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-18.08.16:347][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-18.08.16:347][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-18.08.16:347][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-18.08.16:350][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-18.08.16:459][896]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.04.14-18.08.16:460][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-18.08.16:460][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-18.08.16:460][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-18.08.16:460][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.14-18.08.16:460][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.14-18.08.16:462][896]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.14-18.08.16:463][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.14-18.08.16:463][896]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.04.14-18.08.16:463][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.14-18.08.16:463][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.14-18.08.16:466][896]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.14-18.08.16:468][896]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.14-13.08.16
+[2025.04.14-18.08.16:468][896]LogWorld: Bringing up level for play took: 0.001814
+[2025.04.14-18.08.16:472][896]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.04.14-18.08.16:474][896]PIE: Server logged in
+[2025.04.14-18.08.16:475][896]PIE: Play in editor total start time 0,18 seconds.
+[2025.04.14-18.08.29:307][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-18.08.29:307][342]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.14-18.08.29:307][342]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-18.08.29:308][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-18.08.29:308][342]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.14-18.08.29:324][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-18.08.29:334][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-18.08.29:361][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.14-18.08.29:363][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.14-18.08.29:363][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.14-18.08.29:365][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.14-18.08.29:369][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-18.08.29:375][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.04.14-18.08.29:781][343]LogPlayLevel: Display: Destroying online subsystem :Context_13
