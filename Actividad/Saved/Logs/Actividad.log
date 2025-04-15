@@ -5608,3 +5608,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.15-03.22.56:214][ 99]AssetCheck: /Game/Characters/Muñequito/BP_ThirdPersonCharacter Validating asset
+[2025.04.15-03.23.45:275][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
