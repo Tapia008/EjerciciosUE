@@ -4254,3 +4254,1357 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
 	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
 	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.08.14:278][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34221.644531
+[2025.04.15-03.08.15:287][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-03.08.15:287][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34222.308594, Update Interval: 355.590698
+[2025.04.15-03.13.06:990][917]LogEOSSDK: Warning: LogHttp: 0000097D00461200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BADE576D3-4613-C3FA-B7F3-9C8564669812%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 0 (Found bundle for host: 0x97c47880cf0 [serially])
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 6 (Closing connection)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BADE576D3-4613-C3FA-B7F3-9C8564669812%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.04.15-03.13.06:991][918]LogEOSSDK: Warning: LogHttp: 0000097D00461200: libcurl info message cache 10 (Closing connection)
+[2025.04.15-03.13.07:320][918]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BADE576D3-4613-C3FA-B7F3-9C8564669812%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.04.15-03.13.12:324][933]LogHttp: Warning: 0000097D08D54600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.15-03.13.12:324][933]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 0 (Found bundle for host: 0x97bc8040270 [serially])
+[2025.04.15-03.13.12:324][933]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.04.15-03.13.12:324][933]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.04.15-03.13.12:324][933]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.04.15-03.13.12:324][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.15-03.13.12:324][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.04.15-03.13.12:324][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 6 (Closing connection)
+[2025.04.15-03.13.12:324][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.15-03.13.12:324][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBCDB2A7C-4062-5290-2243-149954CDFF88%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.04.15-03.13.12:325][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.15-03.13.12:325][934]LogHttp: Warning: 0000097D08D54600: libcurl info message cache 10 (Closing connection)
+[2025.04.15-03.13.46:617][328]LogUObjectHash: Compacting FUObjectHashTables data took  19.21ms
+[2025.04.15-03.13.46:624][328]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.141
+[2025.04.15-03.13.46:626][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.15-03.13.46:771][328]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Muñequito/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.04.15-03.13.46:771][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/BP_ThirdPersonCharacter]
+[2025.04.15-03.13.46:812][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Muñequito/BP_ThirdPersonCharacter_Auto3
+[2025.04.15-03.13.46:812][328]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BP_ThirdPersonCharacter_Auto3D873D31143AD9EA2C85472AC0FF7E401.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Autosaves/Game/Characters/Muñequito/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.04.15-03.13.46:814][328]LogFileHelpers: Auto-saving content packages took 0.189
+[2025.04.15-03.15.05:145][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.04.15-03.15.05:539][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.15.05:617][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.15-03.15.05:629][254]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Muñequito/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.04.15-03.15.05:629][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/BP_ThirdPersonCharacter]
+[2025.04.15-03.15.05:642][254]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/BP_ThirdPersonCharacter
+[2025.04.15-03.15.05:644][254]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BP_ThirdPersonCharacter159861F44B9C7257A7AD309F80B030B2.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/BP_ThirdPersonCharacter.uasset'
+[2025.04.15-03.15.05:654][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.718 ms (total: 7.45 sec)
+[2025.04.15-03.15.05:729][254]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.15.05:729][254]LogContentValidation: Enabled validators:
+[2025.04.15-03.15.05:729][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.15.05:729][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.15.05:729][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.15.05:729][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.15.05:729][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.15.05:729][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.15.05:730][254]AssetCheck: /Game/Characters/Muñequito/BP_ThirdPersonCharacter Validating asset
+[2025.04.15-03.15.10:225][340]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34636.871094
+[2025.04.15-03.15.11:225][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-03.15.11:225][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34637.546875, Update Interval: 330.669281
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.41:060][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_118
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.41:181][208]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_119
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.44:929][379]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.44:929][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.44:929][379]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.44:930][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.44:930][379]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.44:930][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.44:930][379]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.44:930][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_120
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.15.45:031][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_121
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.08:422][518]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_122
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.08:494][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.08:494][520]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.08:494][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.08:495][520]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.08:495][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.08:495][520]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.08:495][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.08:495][520]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_123
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.11:985][687]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.11:986][687]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.11:986][687]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.11:986][687]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.11:986][687]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.11:986][687]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.11:986][687]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.11:987][687]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_124
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.12:086][691]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.12:087][691]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_125
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.14:808][813]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_126
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.14:891][815]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_127
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.33:392][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.15-03.17.33:408][449]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_128
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.33:408][449]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_128
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.33:408][449]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_128
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.33:408][449]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_128
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.33:472][451]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_129
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.33:472][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_129
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.33:472][451]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_129
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.33:472][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_129
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.34:094][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.17.34:167][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Muñequito/ABP_Enanito] ([2] browsable assets)...
+[2025.04.15-03.17.34:167][480]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_130
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.34:167][480]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_130
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.34:167][480]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_130
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.34:167][480]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_130
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.17.34:176][480]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito]
+[2025.04.15-03.17.34:176][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/ABP_Enanito]
+[2025.04.15-03.17.34:194][480]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/ABP_Enanito
+[2025.04.15-03.17.34:195][480]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ABP_EnanitoEABE147B458D114C1715B2BCBF528E1C.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/ABP_Enanito.uasset'
+[2025.04.15-03.17.34:203][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.248 ms (total: 7.56 sec)
+[2025.04.15-03.17.34:276][480]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.17.34:276][480]LogContentValidation: Enabled validators:
+[2025.04.15-03.17.34:276][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.17.34:276][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.17.34:276][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.17.34:276][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.17.34:276][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.17.34:276][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.17.34:276][480]AssetCheck: /Game/Characters/Muñequito/ABP_Enanito Validating asset
+[2025.04.15-03.17.34:337][482]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_131
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.17.34:337][482]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_131
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.17.34:337][482]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_131
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.17.34:337][482]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_131
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.01:774][836]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_132
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.01:850][838]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_133
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.05:949][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_134
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.06:023][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_135
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.12:927][323]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_136
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.13:027][325]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_137
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.30:693][129]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_138
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.30:835][131]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_139
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.32:405][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.32:406][196]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_140
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.32:468][198]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_141
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.34:963][316]LogBlueprint: Warning: [AssetLog] C:\Users\Bibiana Tapia\Documents\EjerciciosUE\Actividad\Content\Characters\Muñequito\ABP_Enanito.uasset: [Compiler] walk/idle to Crouch  will never be taken, please connect something to  Can Enter Transition
+[2025.04.15-03.20.34:964][316]LogBlueprint: Warning: [AssetLog] C:\Users\Bibiana Tapia\Documents\EjerciciosUE\Actividad\Content\Characters\Muñequito\ABP_Enanito.uasset: [Compiler] Crouch to walk/idle  will never be taken, please connect something to  Can Enter Transition
+[2025.04.15-03.20.35:029][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.04.15-03.20.35:064][316]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_142
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.35:064][316]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_142
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.35:064][316]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_142
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.35:064][316]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_142
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.35:195][318]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_143
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.35:196][318]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_143
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.35:196][318]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_143
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.35:196][318]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_143
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.35:554][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.20.35:628][334]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Muñequito/ABP_Enanito] ([2] browsable assets)...
+[2025.04.15-03.20.35:629][334]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_144
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.35:629][334]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_144
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.35:629][334]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_144
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.35:629][334]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_144
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.20.35:638][334]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito]
+[2025.04.15-03.20.35:638][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/ABP_Enanito]
+[2025.04.15-03.20.35:658][334]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/ABP_Enanito
+[2025.04.15-03.20.35:659][334]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ABP_EnanitoEA9C3AA04024D2C72234C4A10537AA81.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/ABP_Enanito.uasset'
+[2025.04.15-03.20.35:669][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.939 ms (total: 7.67 sec)
+[2025.04.15-03.20.35:738][334]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.20.35:738][334]LogContentValidation: Enabled validators:
+[2025.04.15-03.20.35:738][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.20.35:738][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.20.35:738][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.20.35:738][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.20.35:738][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.20.35:738][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.20.35:738][334]AssetCheck: /Game/Characters/Muñequito/ABP_Enanito Validating asset
+[2025.04.15-03.20.35:771][335]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_145
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.20.35:771][335]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_145
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.20.35:771][335]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_145
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.20.35:771][335]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_145
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.12:256][987]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.12:257][987]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_146
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.12:343][989]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_147
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.13:823][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.13:824][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_148
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.13:861][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.13:861][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.13:862][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.13:862][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.13:862][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.13:862][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.13:862][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.13:862][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_149
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.21:793][404]LogBlueprint: Warning: [AssetLog] C:\Users\Bibiana Tapia\Documents\EjerciciosUE\Actividad\Content\Characters\Muñequito\ABP_Enanito.uasset: [Compiler] Crouch to walk/idle  will never be taken, please connect something to  Can Enter Transition
+[2025.04.15-03.21.21:868][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.04.15-03.21.21:899][404]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_150
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.21:899][404]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_150
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.21:899][404]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_150
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.21:899][404]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_150
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.21:947][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_151
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.21:947][405]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_151
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.21:947][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_151
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.21:947][405]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_151
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.23:096][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.21.23:160][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Muñequito/ABP_Enanito] ([2] browsable assets)...
+[2025.04.15-03.21.23:161][455]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_152
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.23:161][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_152
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.23:161][455]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_152
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.23:161][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_152
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.23:173][455]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito]
+[2025.04.15-03.21.23:173][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/ABP_Enanito]
+[2025.04.15-03.21.23:195][455]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/ABP_Enanito
+[2025.04.15-03.21.23:195][455]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ABP_Enanito8B47F9FF4D1D3B0F1FFD2EA3E65431B5.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/ABP_Enanito.uasset'
+[2025.04.15-03.21.23:207][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.642 ms (total: 7.78 sec)
+[2025.04.15-03.21.23:264][455]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.21.23:264][455]LogContentValidation: Enabled validators:
+[2025.04.15-03.21.23:264][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.21.23:264][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.21.23:264][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.21.23:264][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.21.23:264][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.21.23:264][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.21.23:264][455]AssetCheck: /Game/Characters/Muñequito/ABP_Enanito Validating asset
+[2025.04.15-03.21.23:317][456]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_153
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.23:317][456]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_153
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.23:317][456]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_153
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.23:317][456]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_153
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.34:635][948]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_154
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.34:720][950]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.34:721][950]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_155
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.35:841][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35019.960938
+[2025.04.15-03.21.36:000][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-03.21.36:002][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35020.097656, Update Interval: 320.118408
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.38:108][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_156
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.38:173][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.38:173][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.38:174][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.38:174][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.38:174][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.38:174][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.38:174][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.38:174][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_157
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.42:474][264]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_158
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.42:539][266]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_159
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.44:041][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.04.15-03.21.44:060][332]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_160
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.44:060][332]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_160
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.44:060][332]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_160
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.44:060][332]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_160
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.44:120][334]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_161
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.44:120][334]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_161
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.44:120][334]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_161
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.44:120][334]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_161
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.44:778][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.21.44:854][363]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Muñequito/ABP_Enanito] ([2] browsable assets)...
+[2025.04.15-03.21.44:855][363]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_162
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.44:855][363]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_162
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.44:855][363]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_162
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.44:855][363]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_162
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.21.44:864][363]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito]
+[2025.04.15-03.21.44:864][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/ABP_Enanito]
+[2025.04.15-03.21.44:887][363]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/ABP_Enanito
+[2025.04.15-03.21.44:888][363]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ABP_Enanito61016EFE4A77ADB7116E6790F86B5CB6.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/ABP_Enanito.uasset'
+[2025.04.15-03.21.44:897][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.544 ms (total: 7.90 sec)
+[2025.04.15-03.21.44:963][363]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.21.44:963][363]LogContentValidation: Enabled validators:
+[2025.04.15-03.21.44:963][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.21.44:963][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.21.44:963][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.21.44:963][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.21.44:963][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.21.44:963][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.21.44:963][363]AssetCheck: /Game/Characters/Muñequito/ABP_Enanito Validating asset
+[2025.04.15-03.21.45:043][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_163
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.21.45:043][365]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_163
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.21.45:043][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_163
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.21.45:043][365]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_163
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.04:604][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_164
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.04:675][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.04:676][205]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_165
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.21:178][955]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.21:179][955]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_166
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.21:244][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.21:244][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.21:244][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.21:245][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.21:245][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.21:245][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.21:245][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.21:245][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_167
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.24:045][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_168
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.24:107][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_169
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.25:299][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.15-03.22.25:334][130]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_170
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.25:334][130]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_170
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.25:334][130]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_170
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.25:334][130]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_170
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.25:334][130]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_170
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0160
+[2025.04.15-03.22.25:334][130]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_170
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:018F
+[2025.04.15-03.22.25:439][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_171
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.25:439][132]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_171
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.25:439][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_171
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.25:439][132]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_171
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.25:439][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_171
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0160
+[2025.04.15-03.22.25:439][132]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_171
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:018F
+[2025.04.15-03.22.25:968][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.22.26:030][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Muñequito/ABP_Enanito] ([2] browsable assets)...
+[2025.04.15-03.22.26:030][155]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_172
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.26:030][155]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_172
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.26:030][155]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_172
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.26:030][155]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_172
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.26:030][155]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_172
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0160
+[2025.04.15-03.22.26:030][155]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_172
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:018F
+[2025.04.15-03.22.26:040][155]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito]
+[2025.04.15-03.22.26:040][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/ABP_Enanito]
+[2025.04.15-03.22.26:072][155]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/ABP_Enanito
+[2025.04.15-03.22.26:073][155]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ABP_EnanitoAC6895E94063DCD95757D8B1A388D98D.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/ABP_Enanito.uasset'
+[2025.04.15-03.22.26:083][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.447 ms (total: 8.02 sec)
+[2025.04.15-03.22.26:152][155]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.22.26:152][155]LogContentValidation: Enabled validators:
+[2025.04.15-03.22.26:152][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.22.26:153][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.22.26:153][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.22.26:153][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.22.26:153][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.22.26:153][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.22.26:153][155]AssetCheck: /Game/Characters/Muñequito/ABP_Enanito Validating asset
+[2025.04.15-03.22.26:223][157]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_173
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.22.26:223][157]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_173
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.22.26:223][157]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_173
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.22.26:223][157]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_173
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.22.26:223][157]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_173
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0160
+[2025.04.15-03.22.26:223][157]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_173
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:018F
+[2025.04.15-03.22.31:589][375]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.15-03.22.31:614][375]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.15-03.22.31:614][375]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.15-03.22.31:632][375]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 17.309 ms (total: 155.418 ms)
+[2025.04.15-03.22.31:640][375]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.04.15-03.22.31:751][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.04.15-03.22.31:753][375]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2025.04.15-03.22.31:766][375]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.15-03.22.31:799][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032844s)
+[2025.04.15-03.22.31:799][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.032936s)
+[2025.04.15-03.22.31:821][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.04.15-03.22.31:826][375]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.15-03.22.31:879][375]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.15-03.22.31:879][375]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.15-03.22.31:879][375]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.15-03.22.31:879][375]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.15-03.22.31:886][375]LogWorldPartition: Display: WorldPartition initialize took 6.186 ms (total: 104.770 ms)
+[2025.04.15-03.22.31:888][375]LogPlayLevel: PIE: World Init took: (0.062431s)
+[2025.04.15-03.22.31:891][375]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.15-03.22.31:893][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.15-03.22.31:893][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.15-03.22.31:895][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.15-03.22.31:895][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.15-03.22.31:895][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.15-03.22.31:900][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.15-03.22.32:013][375]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.04.15-03.22.32:018][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.15-03.22.32:018][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.15-03.22.32:021][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.15-03.22.32:030][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.04.15-03.22.32:030][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.04.15-03.22.32:033][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.04.15-03.22.32:033][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.04.15-03.22.32:034][375]LogInit: FAudioDevice initialized with ID 8.
+[2025.04.15-03.22.32:034][375]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.04.15-03.22.32:039][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.15-03.22.32:103][375]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.15-03.22.32:125][375]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.04.14-22.22.32
+[2025.04.15-03.22.32:127][375]LogWorld: Bringing up level for play took: 0.019913
+[2025.04.15-03.22.32:139][375]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.04.15-03.22.32:172][375]PIE: Server logged in
+[2025.04.15-03.22.32:173][375]PIE: Play in editor total start time 0,566 seconds.
+[2025.04.15-03.22.47:657][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-03.22.47:657][843]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.15-03.22.47:667][843]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-03.22.47:673][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-03.22.47:673][843]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.15-03.22.47:698][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.15-03.22.47:709][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-03.22.47:740][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-03.22.47:742][843]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.15-03.22.47:745][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.15-03.22.47:748][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.15-03.22.47:779][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.15-03.22.48:192][844]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.04.15-03.22.56:004][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.04.15-03.22.56:012][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.22.56:085][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Muñequito/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.15-03.22.56:101][ 99]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Muñequito/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.04.15-03.22.56:101][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/BP_ThirdPersonCharacter]
+[2025.04.15-03.22.56:117][ 99]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/BP_ThirdPersonCharacter
+[2025.04.15-03.22.56:117][ 99]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BP_ThirdPersonCharacter340442434A4711FC8D2D268E77F04AA3.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/BP_ThirdPersonCharacter.uasset'
+[2025.04.15-03.22.56:129][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.449 ms (total: 8.14 sec)
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: Enabled validators:
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.22.56:214][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.22.56:214][ 99]AssetCheck: /Game/Characters/Muñequito/BP_ThirdPersonCharacter Validating asset
