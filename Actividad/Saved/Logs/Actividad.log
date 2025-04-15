@@ -4065,3 +4065,192 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.15-03.02.29:561][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
 [2025.04.15-03.02.29:956][669]LogPlayLevel: Display: Destroying online subsystem :Context_25
 [2025.04.15-03.02.33:630][687]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2025.04.15-03.04.42:810][458]LogContentBrowser: Attempting asset rename: Turn_Left -> Agacharse
+[2025.04.15-03.04.43:293][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.04.43:294][458]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Muñequito/Anims/Agacharse] ([1] browsable assets)...
+[2025.04.15-03.04.43:294][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Anims/Agacharse]
+[2025.04.15-03.04.43:312][458]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Anims/Agacharse
+[2025.04.15-03.04.43:312][458]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/AgacharseC9E0BC1D472B4AA844E8F28DB491B03B.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Anims/Agacharse.uasset'
+[2025.04.15-03.04.43:331][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.052 ms (total: 7.22 sec)
+[2025.04.15-03.04.43:401][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.04.15-03.04.43:431][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.04.15-03.04.43:458][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.15-03.04.43:545][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-03.04.43:545][458]LogContentValidation: Enabled validators:
+[2025.04.15-03.04.43:545][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.04.43:545][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.04.43:545][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.04.43:545][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.04.43:545][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.04.43:545][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.04.43:545][458]AssetCheck: /Game/Characters/Muñequito/Anims/Agacharse Validating asset
+[2025.04.15-03.04.48:755][617]LogContentBrowser: Attempting asset rename: Breathing_Idle_1__Anim -> Idle
+[2025.04.15-03.04.48:887][617]LogMetaData: Removing '/Game/Characters/Muñequito/Anims/Idle.Idle' ref from Metadata '/Game/Characters/Muñequito/Anims/Breathing_Idle_1__Anim.PackageMetaData'
+[2025.04.15-03.04.48:891][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.04.48:892][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Muñequito/BS_Enanito] ([1] browsable assets)...
+[2025.04.15-03.04.48:892][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/BS_Enanito]
+[2025.04.15-03.04.48:894][617]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/BS_Enanito
+[2025.04.15-03.04.48:894][617]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BS_Enanito1A72611B4D36F3E5044E95BC80EFDA06.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/BS_Enanito.uasset'
+[2025.04.15-03.04.48:895][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Muñequito/Anims/Idle] ([1] browsable assets)...
+[2025.04.15-03.04.48:895][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Anims/Idle]
+[2025.04.15-03.04.48:914][617]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Anims/Idle
+[2025.04.15-03.04.48:914][617]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/IdleC624DACB42084F8734AF5B8CAF1CCB23.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Anims/Idle.uasset'
+[2025.04.15-03.04.48:930][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.252 ms (total: 7.25 sec)
+[2025.04.15-03.04.48:979][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.15-03.04.49:004][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.15-03.04.49:027][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.15-03.04.49:103][617]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.15-03.04.49:103][617]LogContentValidation: Enabled validators:
+[2025.04.15-03.04.49:103][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.04.49:103][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.04.49:103][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.04.49:103][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.04.49:103][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.04.49:103][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.04.49:103][617]AssetCheck: /Game/Characters/Muñequito/BS_Enanito Validating asset
+[2025.04.15-03.04.49:103][617]AssetCheck: /Game/Characters/Muñequito/Anims/Idle Validating asset
+[2025.04.15-03.04.54:059][776]LogContentBrowser: Attempting asset rename: Brutal_To_Happy_Walking -> Walk
+[2025.04.15-03.04.54:202][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.04.54:202][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Muñequito/BS_Enanito] ([1] browsable assets)...
+[2025.04.15-03.04.54:202][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/BS_Enanito]
+[2025.04.15-03.04.54:203][776]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/BS_Enanito
+[2025.04.15-03.04.54:203][776]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BS_Enanito99356DC94A8F50CAD0B98D89068CC27A.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/BS_Enanito.uasset'
+[2025.04.15-03.04.54:204][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Muñequito/Anims/Walk] ([1] browsable assets)...
+[2025.04.15-03.04.54:204][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Anims/Walk]
+[2025.04.15-03.04.54:213][776]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Anims/Walk
+[2025.04.15-03.04.54:213][776]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Walk1E84C12A41C897EF2FD89AB21278736C.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Anims/Walk.uasset'
+[2025.04.15-03.04.54:227][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.850 ms (total: 7.28 sec)
+[2025.04.15-03.04.54:277][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.15-03.04.54:305][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.15-03.04.54:329][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.15-03.04.54:408][776]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.15-03.04.54:408][776]LogContentValidation: Enabled validators:
+[2025.04.15-03.04.54:408][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.04.54:408][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.04.54:408][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.04.54:408][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.04.54:409][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.04.54:409][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.04.54:409][776]AssetCheck: /Game/Characters/Muñequito/BS_Enanito Validating asset
+[2025.04.15-03.04.54:409][776]AssetCheck: /Game/Characters/Muñequito/Anims/Walk Validating asset
+[2025.04.15-03.05.02:306][ 38]LogContentBrowser: Attempting asset rename: Standing_Jump -> Jump
+[2025.04.15-03.05.02:486][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-03.05.02:486][ 38]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Muñequito/ABP_Enanito] ([2] browsable assets)...
+[2025.04.15-03.05.02:486][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.02:486][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.02:487][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.02:487][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.02:487][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.02:487][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.02:487][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.02:487][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_114
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.02:497][ 38]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito]
+[2025.04.15-03.05.02:497][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/ABP_Enanito]
+[2025.04.15-03.05.02:513][ 38]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/ABP_Enanito
+[2025.04.15-03.05.02:514][ 38]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ABP_Enanito73762DC64AC5CA1CCE77B9A0EAF395B3.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/ABP_Enanito.uasset'
+[2025.04.15-03.05.02:515][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Muñequito/Anims/Jump] ([1] browsable assets)...
+[2025.04.15-03.05.02:515][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Muñequito/Anims/Jump]
+[2025.04.15-03.05.02:529][ 38]LogSavePackage: Moving output files for package: /Game/Characters/Muñequito/Anims/Jump
+[2025.04.15-03.05.02:529][ 38]LogSavePackage: Moving '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/JumpDA73EDF747135A1C7540AB9B85A004FD.tmp' to '../../../../../../Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Muñequito/Anims/Jump.uasset'
+[2025.04.15-03.05.02:542][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.026 ms (total: 7.34 sec)
+[2025.04.15-03.05.02:594][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.04.15-03.05.02:619][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.15-03.05.02:644][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: Enabled validators:
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-03.05.02:728][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-03.05.02:728][ 38]AssetCheck: /Game/Characters/Muñequito/ABP_Enanito Validating asset
+[2025.04.15-03.05.02:728][ 38]AssetCheck: /Game/Characters/Muñequito/Anims/Jump Validating asset
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.08:234][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_115
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.08:268][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.08:268][228]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.08:268][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.08:268][228]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.08:269][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.08:269][228]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.08:269][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.08:269][228]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_116
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.08:298][229]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0038
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0067
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00C2
+[2025.04.15-03.05.08:299][229]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_117
+	Function /Game/Characters/Muñequito/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0101
