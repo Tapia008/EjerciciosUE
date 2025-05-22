@@ -4941,3 +4941,750 @@ Script Stack (0 frames) :
 [2025.05.22-15.37.05:205][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.981323
 [2025.05.22-15.37.06:205][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.22-15.37.06:205][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1014.648132, Update Interval: 356.751617
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-15.38.29:123][419]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_15
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-15.40.57:276][501]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2025.05.22-15.40.57:361][503]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2025.05.22-15.42.40:097][733]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Mapas/Nicolas/Arbol/MiArbol.MiArbol
+[2025.05.22-15.43.05:646][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.GoToPlayerLocation
+[2025.05.22-15.43.05:647][237]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.05.22-15.43.13:419][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1382.194214
+[2025.05.22-15.43.13:586][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-15.43.13:586][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1382.344360, Update Interval: 328.043457
+[2025.05.22-15.44.53:944][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.22-15.44.53:955][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.44.54:014][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.44.54:014][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.44.54:019][604]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.44.54:019][604]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocation39805F3645CD0C695FB9A3B2554B921B.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.44.54:028][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.418 ms (total: 6.35 sec)
+[2025.05.22-15.44.54:095][604]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.44.54:095][604]LogContentValidation: Enabled validators:
+[2025.05.22-15.44.54:095][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.44.54:095][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.44.54:095][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.44.54:095][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.44.54:095][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.44.54:095][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.44.54:095][604]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.44.55:378][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.44.55:444][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.44.55:444][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.44.55:449][679]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.44.55:449][679]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocation2C2186E845F89E135D8C70937532D124.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.44.55:455][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.548 ms (total: 6.42 sec)
+[2025.05.22-15.44.55:516][679]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.44.55:516][679]LogContentValidation: Enabled validators:
+[2025.05.22-15.44.55:516][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.44.55:516][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.44.55:516][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.44.55:518][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.44.55:518][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.44.55:518][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.44.55:518][679]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.44.57:838][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-15.44.57:844][789]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-15.44.57:844][789]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-15.44.57:847][789]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.802 ms (total: 29.734 ms)
+[2025.05.22-15.44.57:856][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-15.44.57:856][789]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.44.57:862][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006620s)
+[2025.05.22-15.44.57:862][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006653s)
+[2025.05.22-15.44.57:882][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.22-15.44.57:883][789]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-15.44.57:885][789]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-15.44.57:885][789]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-15.44.57:885][789]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-15.44.57:885][789]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-15.44.57:888][789]LogWorldPartition: Display: WorldPartition initialize took 2.228 ms (total: 406.127 ms)
+[2025.05.22-15.44.57:888][789]LogPlayLevel: PIE: World Init took: (0.003986s)
+[2025.05.22-15.44.57:888][789]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-15.44.57:889][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-15.44.57:889][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-15.44.57:889][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-15.44.57:889][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-15.44.57:889][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-15.44.57:891][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-15.44.57:995][789]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.22-15.44.57:995][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-15.44.57:995][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-15.44.57:995][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-15.44.57:995][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.22-15.44.57:996][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.22-15.44.57:998][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.22-15.44.57:998][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.22-15.44.57:998][789]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.22-15.44.57:998][789]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.05.22-15.44.57:998][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.22-15.44.58:001][789]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-15.44.58:007][789]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.22-10.44.58
+[2025.05.22-15.44.58:007][789]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.44.58:008][789]LogWorld: Bringing up level for play took: 0.007303
+[2025.05.22-15.44.58:011][789]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.05.22-15.44.58:016][789]PIE: Server logged in
+[2025.05.22-15.44.58:017][789]PIE: Play in editor total start time 0,173 seconds.
+[2025.05.22-15.44.58:029][789]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.44.58:029][789]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.44.58:029][789]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.44.58:029][789]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.44.58:029][789]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.44.58:029][789]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.44.58:914][792]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.44.58:914][792]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.01:248][820]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.01:248][820]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.03:354][865]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.03:354][865]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.03:573][873]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.03:573][873]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.03:970][890]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.03:970][890]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.05:603][961]LogBlueprintUserMessages: [BP_Inventory] Objeto: ShieldDescripción: To Protect from Enemies
+[2025.05.22-15.45.06:323][988]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.06:323][988]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.11:015][163]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.11:015][163]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.11:663][192]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.11:663][192]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.17:433][443]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.17:433][443]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.18:071][469]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.18:071][469]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.20:767][580]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.20:767][580]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.23:052][681]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.23:052][681]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.25:394][787]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.25:394][787]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.25:615][796]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.25:616][796]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.25:737][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.45.25:738][801]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.45.25:738][801]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-15.45.25:739][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.45.25:739][801]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-15.45.25:751][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-15.45.25:756][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.45.25:780][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.45.25:780][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.22-15.45.25:780][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.22-15.45.25:782][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.22-15.45.25:791][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.22-15.45.25:797][801]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.45.26:341][802]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.05.22-15.45.29:437][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.45.29:489][903]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/MiArbol] ([1] browsable assets)...
+[2025.05.22-15.45.29:489][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/MiArbol]
+[2025.05.22-15.45.29:489][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Nicolas/Arbol/MiArbol" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/MiArbol.uasset" SILENT=true
+[2025.05.22-15.45.29:494][903]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/MiArbol
+[2025.05.22-15.45.29:494][903]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/MiArbol3DC88F854638992CA2216A8E3F670337.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/MiArbol.uasset'
+[2025.05.22-15.45.29:500][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.168 ms (total: 6.49 sec)
+[2025.05.22-15.45.29:558][903]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.45.29:558][903]LogContentValidation: Enabled validators:
+[2025.05.22-15.45.29:558][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.45.29:558][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.45.29:558][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.45.29:558][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.45.29:558][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.45.29:558][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.45.29:559][903]AssetCheck: /Game/Mapas/Nicolas/Arbol/MiArbol Validating asset
+[2025.05.22-15.45.32:832][ 71]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-15.45.32:838][ 71]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-15.45.32:839][ 71]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-15.45.32:841][ 71]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.417 ms (total: 32.152 ms)
+[2025.05.22-15.45.32:846][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-15.45.32:847][ 71]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.45.32:857][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010189s)
+[2025.05.22-15.45.32:857][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010278s)
+[2025.05.22-15.45.32:878][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.22-15.45.32:880][ 71]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-15.45.32:881][ 71]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-15.45.32:881][ 71]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-15.45.32:881][ 71]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-15.45.32:881][ 71]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-15.45.32:884][ 71]LogWorldPartition: Display: WorldPartition initialize took 2.217 ms (total: 408.344 ms)
+[2025.05.22-15.45.32:884][ 71]LogPlayLevel: PIE: World Init took: (0.003881s)
+[2025.05.22-15.45.32:884][ 71]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.05.22-15.45.32:884][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-15.45.32:885][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-15.45.32:885][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-15.45.32:885][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-15.45.32:885][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-15.45.32:885][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-15.45.32:885][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-15.45.32:885][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-15.45.32:885][ 71]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-15.45.32:885][ 71]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-15.45.32:885][ 71]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-15.45.32:887][ 71]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-15.45.32:988][ 71]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.22-15.45.32:988][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-15.45.32:988][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-15.45.32:988][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-15.45.32:989][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.05.22-15.45.32:989][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.05.22-15.45.32:992][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.05.22-15.45.32:992][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.05.22-15.45.32:992][ 71]LogInit: FAudioDevice initialized with ID 10.
+[2025.05.22-15.45.32:992][ 71]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.05.22-15.45.32:992][ 71]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.22-15.45.32:994][ 71]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-15.45.33:000][ 71]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.22-10.45.33
+[2025.05.22-15.45.33:000][ 71]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.45.33:002][ 71]LogWorld: Bringing up level for play took: 0.006968
+[2025.05.22-15.45.33:005][ 71]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.05.22-15.45.33:009][ 71]PIE: Server logged in
+[2025.05.22-15.45.33:010][ 71]PIE: Play in editor total start time 0,172 seconds.
+[2025.05.22-15.45.33:014][ 71]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.33:014][ 71]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.33:014][ 71]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.33:014][ 71]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.33:014][ 71]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.33:014][ 71]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.33:756][ 75]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.33:756][ 75]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.36:079][106]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.36:079][106]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.38:185][188]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.38:185][188]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.38:417][197]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.38:417][197]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.38:802][214]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.45.38:802][214]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.45.39:859][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.45.39:859][257]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.45.39:860][257]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-15.45.39:861][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.45.39:861][257]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-15.45.39:868][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-15.45.39:875][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.45.39:898][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.45.39:898][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.22-15.45.39:898][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.22-15.45.39:900][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.22-15.45.39:908][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.22-15.45.39:915][257]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.45.40:158][258]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.05.22-15.46.04:641][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.22-15.46.04:652][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.46.04:719][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.46.04:719][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.46.04:725][592]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.46.04:725][592]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocationFF58B7AD4C049279205413978D8F2F64.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.46.04:731][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.046 ms (total: 6.57 sec)
+[2025.05.22-15.46.04:787][592]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.46.04:787][592]LogContentValidation: Enabled validators:
+[2025.05.22-15.46.04:787][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.46.04:787][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.46.04:787][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.46.04:787][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.46.04:787][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.46.04:787][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.46.04:787][592]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.46.05:424][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.46.05:474][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.46.05:474][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.46.05:479][629]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.46.05:479][629]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocationB78F1EB545BC2119BE8171A76DF4B1CF.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.46.05:486][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.341 ms (total: 6.63 sec)
+[2025.05.22-15.46.05:554][629]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.46.05:554][629]LogContentValidation: Enabled validators:
+[2025.05.22-15.46.05:554][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.46.05:554][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.46.05:554][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.46.05:554][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.46.05:554][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.46.05:555][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.46.05:555][629]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.46.06:974][678]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-15.46.06:981][678]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-15.46.06:981][678]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-15.46.06:984][678]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.467 ms (total: 34.620 ms)
+[2025.05.22-15.46.06:989][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-15.46.06:989][678]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.46.06:999][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008883s)
+[2025.05.22-15.46.06:999][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008922s)
+[2025.05.22-15.46.07:018][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.22-15.46.07:020][678]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-15.46.07:022][678]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-15.46.07:022][678]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-15.46.07:022][678]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-15.46.07:022][678]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-15.46.07:024][678]LogWorldPartition: Display: WorldPartition initialize took 2.431 ms (total: 410.776 ms)
+[2025.05.22-15.46.07:024][678]LogPlayLevel: PIE: World Init took: (0.004944s)
+[2025.05.22-15.46.07:025][678]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-15.46.07:025][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-15.46.07:025][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-15.46.07:025][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-15.46.07:025][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-15.46.07:025][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-15.46.07:028][678]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-15.46.07:129][678]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.22-15.46.07:129][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-15.46.07:129][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-15.46.07:129][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-15.46.07:131][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.22-15.46.07:131][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.05.22-15.46.07:133][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.22-15.46.07:133][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.22-15.46.07:133][678]LogInit: FAudioDevice initialized with ID 11.
+[2025.05.22-15.46.07:133][678]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.05.22-15.46.07:133][678]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.22-15.46.07:136][678]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-15.46.07:142][678]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.22-10.46.07
+[2025.05.22-15.46.07:142][678]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.46.07:144][678]LogWorld: Bringing up level for play took: 0.007394
+[2025.05.22-15.46.07:146][678]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.05.22-15.46.07:151][678]PIE: Server logged in
+[2025.05.22-15.46.07:152][678]PIE: Play in editor total start time 0,171 seconds.
+[2025.05.22-15.46.07:156][678]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.46.07:156][678]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.46.07:156][678]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.46.07:156][678]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.46.07:156][678]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.46.07:156][678]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.46.07:842][685]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.46.07:842][685]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.46.10:082][740]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.46.10:082][740]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.46.11:708][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.46.11:708][814]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.46.11:708][814]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-15.46.11:709][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.46.11:709][814]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-15.46.11:724][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-15.46.11:729][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.46.11:751][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.46.11:751][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.22-15.46.11:751][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.22-15.46.11:754][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.22-15.46.11:763][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.22-15.46.11:770][814]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.46.12:014][815]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.05.22-15.46.42:189][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.22-15.46.42:198][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.46.42:255][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.46.42:255][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.46.42:261][548]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.46.42:261][548]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocation584CD88C48393A40F10FB492CC0CC46A.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.46.42:268][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.508 ms (total: 6.70 sec)
+[2025.05.22-15.46.42:330][548]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.46.42:330][548]LogContentValidation: Enabled validators:
+[2025.05.22-15.46.42:330][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.46.42:330][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.46.42:330][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.46.42:330][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.46.42:330][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.46.42:330][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.46.42:330][548]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.46.42:819][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.46.42:873][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.46.42:873][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.46.42:877][576]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.46.42:877][576]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocation34B3AC624659E11878CF16A08DC34E0C.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.46.42:884][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.474 ms (total: 6.76 sec)
+[2025.05.22-15.46.42:946][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.46.42:946][576]LogContentValidation: Enabled validators:
+[2025.05.22-15.46.42:946][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.46.42:946][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.46.42:946][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.46.42:946][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.46.42:946][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.46.42:946][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.46.42:946][576]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.46.45:228][713]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.45:228][713]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.05.22-15.46.45:470][721]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.45:470][721]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.05.22-15.46.45:693][729]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.45:693][729]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.45:868][736]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.45:868][736]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.46:098][749]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.46:098][749]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.46:311][761]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.46:311][761]LogEditorTransaction: Undo Create Reroute Node
+[2025.05.22-15.46.46:540][774]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.46:540][774]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.46:735][785]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.46:735][785]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.46:947][797]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.46:947][797]LogEditorTransaction: Undo Create Reroute Node
+[2025.05.22-15.46.47:144][808]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.47:144][808]LogEditorTransaction: Undo Create Pin Link
+[2025.05.22-15.46.47:338][819]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.47:338][819]LogEditorTransaction: Undo Create Pin Link
+[2025.05.22-15.46.47:533][830]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.47:533][830]LogEditorTransaction: Undo Create Pin Link
+[2025.05.22-15.46.47:729][841]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.47:729][841]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.47:940][853]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.47:940][853]LogEditorTransaction: Undo Move Nodes
+[2025.05.22-15.46.48:135][864]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.48:135][864]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.48:396][879]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.48:396][879]LogEditorTransaction: Undo Add Node
+[2025.05.22-15.46.48:723][898]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.48:723][898]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.49:065][918]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.49:065][918]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.49:337][929]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.49:337][929]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.49:588][938]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.49:588][938]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.49:850][953]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.49:850][953]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.46.50:210][974]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.50:210][974]LogEditorTransaction: Undo Move Nodes
+[2025.05.22-15.46.50:519][992]Cmd: TRANSACTION UNDO
+[2025.05.22-15.46.50:519][992]LogEditorTransaction: Undo Add Node
+[2025.05.22-15.46.52:291][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.22-15.46.52:301][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.46.52:360][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.46.52:360][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.46.52:364][ 95]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.46.52:364][ 95]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocationEAE180F34AE2B0D19633EFBB11B71E51.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.46.52:372][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.911 ms (total: 6.83 sec)
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: Enabled validators:
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.46.52:427][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.46.52:427][ 95]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.46.53:100][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.46.53:164][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.46.53:164][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.46.53:167][134]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.46.53:167][134]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocation83C58A3D472B4B98EA8462A6382E8317.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.46.53:174][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.691 ms (total: 6.91 sec)
+[2025.05.22-15.46.53:241][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.46.53:241][134]LogContentValidation: Enabled validators:
+[2025.05.22-15.46.53:241][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.46.53:241][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.46.53:241][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.46.53:241][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.46.53:241][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.46.53:241][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.46.53:242][134]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.48.02:332][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.22-15.48.02:344][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.48.02:408][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.48.02:408][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.48.02:412][246]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.48.02:412][246]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocationD81250194AF65C44C751859A37ECC81E.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.48.02:423][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.975 ms (total: 6.99 sec)
+[2025.05.22-15.48.02:495][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.48.02:495][246]LogContentValidation: Enabled validators:
+[2025.05.22-15.48.02:495][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.48.02:495][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.48.02:495][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.48.02:495][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.48.02:495][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.48.02:495][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.48.02:495][246]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.48.02:985][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.48.03:044][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.48.03:044][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.48.03:050][273]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.48.03:050][273]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocationDB67458947462B793AC38E97581C562A.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.48.03:058][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.551 ms (total: 7.06 sec)
+[2025.05.22-15.48.03:132][273]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.48.03:132][273]LogContentValidation: Enabled validators:
+[2025.05.22-15.48.03:132][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.48.03:132][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.48.03:132][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.48.03:132][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.48.03:132][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.48.03:132][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.48.03:132][273]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.48.04:551][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-15.48.04:557][335]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-15.48.04:557][335]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-15.48.04:559][335]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.360 ms (total: 36.980 ms)
+[2025.05.22-15.48.04:565][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-15.48.04:565][335]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.48.04:576][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010589s)
+[2025.05.22-15.48.04:577][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010636s)
+[2025.05.22-15.48.04:600][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.22-15.48.04:601][335]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-15.48.04:602][335]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-15.48.04:602][335]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-15.48.04:602][335]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-15.48.04:602][335]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-15.48.04:606][335]LogWorldPartition: Display: WorldPartition initialize took 3.064 ms (total: 413.840 ms)
+[2025.05.22-15.48.04:606][335]LogPlayLevel: PIE: World Init took: (0.004866s)
+[2025.05.22-15.48.04:608][335]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-15.48.04:608][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-15.48.04:608][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-15.48.04:608][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-15.48.04:608][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-15.48.04:608][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-15.48.04:610][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-15.48.04:713][335]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.22-15.48.04:713][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-15.48.04:713][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-15.48.04:713][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-15.48.04:713][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.05.22-15.48.04:713][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.05.22-15.48.04:716][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.05.22-15.48.04:716][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.05.22-15.48.04:716][335]LogInit: FAudioDevice initialized with ID 12.
+[2025.05.22-15.48.04:716][335]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.05.22-15.48.04:716][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.22-15.48.04:719][335]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-15.48.04:726][335]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.22-10.48.04
+[2025.05.22-15.48.04:726][335]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.48.04:728][335]LogWorld: Bringing up level for play took: 0.008096
+[2025.05.22-15.48.04:730][335]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.05.22-15.48.04:735][335]PIE: Server logged in
+[2025.05.22-15.48.04:736][335]PIE: Play in editor total start time 0,18 seconds.
+[2025.05.22-15.48.04:739][335]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.04:739][335]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.04:739][335]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.04:739][335]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.04:739][335]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.04:739][335]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.05:369][338]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.05:369][338]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.07:641][386]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.07:641][386]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.09:199][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.48.09:199][448]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.48.09:199][448]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-15.48.09:200][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.48.09:200][448]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-15.48.09:218][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-15.48.09:224][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.48.09:249][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.48.09:249][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.22-15.48.09:249][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.22-15.48.09:252][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.22-15.48.09:260][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.22-15.48.09:267][448]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.48.09:583][449]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.05.22-15.48.12:146][509]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.12:146][509]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.12:519][523]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.12:519][523]LogEditorTransaction: Undo Create Reroute Node
+[2025.05.22-15.48.12:760][534]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.12:760][534]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.13:034][550]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.13:035][550]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.13:326][567]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.13:326][567]LogEditorTransaction: Undo Create Pin Link
+[2025.05.22-15.48.13:585][582]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.13:585][582]LogEditorTransaction: Undo Create Pin Link
+[2025.05.22-15.48.13:844][597]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.13:844][597]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.14:104][612]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.14:104][612]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.14:364][627]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.14:364][627]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.14:657][644]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.14:657][644]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.15:116][671]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.15:117][671]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.15:626][701]Cmd: TRANSACTION UNDO
+[2025.05.22-15.48.15:626][701]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.15:935][719]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.16:268][732]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.16:558][744]LogEditorTransaction: Undo Move Node
+[2025.05.22-15.48.16:883][763]LogEditorTransaction: Undo Add Node
+[2025.05.22-15.48.22:586][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.22-15.48.22:595][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.48.22:662][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.48.22:662][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.48.22:666][ 65]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.48.22:667][ 65]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocation6EF03850404CE8CFF91E7185EEFFC6B4.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.48.22:674][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.761 ms (total: 7.14 sec)
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: Enabled validators:
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.48.22:752][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.48.22:752][ 65]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.48.23:190][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.48.23:257][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation] ([2] browsable assets)...
+[2025.05.22-15.48.23:257][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation]
+[2025.05.22-15.48.23:260][ 90]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation
+[2025.05.22-15.48.23:260][ 90]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/GoToPlayerLocationB08D8D134C738E5DF9B77FA3C024E3C2.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation.uasset'
+[2025.05.22-15.48.23:268][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.033 ms (total: 7.22 sec)
+[2025.05.22-15.48.23:333][ 90]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.48.23:333][ 90]LogContentValidation: Enabled validators:
+[2025.05.22-15.48.23:334][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.48.23:334][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.48.23:334][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.48.23:334][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.48.23:334][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.48.23:334][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.48.23:334][ 90]AssetCheck: /Game/Mapas/Nicolas/Arbol/Task/GoToPlayerLocation Validating asset
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Can't see player[1]> Failed to find key 'CanSee' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Move To[3]> Failed to find key 'Posicion1' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Move To[5]> Failed to find key 'Posicion2' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Move To[7]> Failed to find key 'Posicion3' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Move To[9]> Failed to find key 'Posicion4' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Move To[11]> Failed to find key 'Posicion5' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Move To[13]> Failed to find key 'Posicion6' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.38:563][990]LogBehaviorTree: Warning: MiArbol::Can see player[15]> Failed to find key 'CanSee' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Can't see player[1]> Failed to find key 'CanSee' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Move To[3]> Failed to find key 'Posicion1' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Move To[5]> Failed to find key 'Posicion2' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Move To[7]> Failed to find key 'Posicion3' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Move To[9]> Failed to find key 'Posicion4' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Move To[11]> Failed to find key 'Posicion5' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Move To[13]> Failed to find key 'Posicion6' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:869][428]LogBehaviorTree: Warning: MiArbol::Can see player[15]> Failed to find key 'CanSee' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.45:873][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.48.45:955][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/MiArbol] ([1] browsable assets)...
+[2025.05.22-15.48.45:955][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/MiArbol]
+[2025.05.22-15.48.45:955][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Nicolas/Arbol/MiArbol" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/MiArbol.uasset" SILENT=true
+[2025.05.22-15.48.45:960][428]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/MiArbol
+[2025.05.22-15.48.45:961][428]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/MiArbol082DC6754FBA98600C62D08C45B04A83.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/MiArbol.uasset'
+[2025.05.22-15.48.45:968][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.813 ms (total: 7.31 sec)
+[2025.05.22-15.48.46:034][428]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.48.46:035][428]LogContentValidation: Enabled validators:
+[2025.05.22-15.48.46:035][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.48.46:035][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.48.46:035][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.48.46:035][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.48.46:035][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.48.46:035][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.48.46:035][428]AssetCheck: /Game/Mapas/Nicolas/Arbol/MiArbol Validating asset
+[2025.05.22-15.48.49:237][598]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-15.48.49:243][598]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-15.48.49:243][598]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-15.48.49:246][598]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.373 ms (total: 39.354 ms)
+[2025.05.22-15.48.49:252][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-15.48.49:252][598]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.48.49:264][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012070s)
+[2025.05.22-15.48.49:264][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012113s)
+[2025.05.22-15.48.49:289][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.22-15.48.49:292][598]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-15.48.49:293][598]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-15.48.49:293][598]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-15.48.49:293][598]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-15.48.49:293][598]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-15.48.49:296][598]LogWorldPartition: Display: WorldPartition initialize took 2.718 ms (total: 416.558 ms)
+[2025.05.22-15.48.49:296][598]LogPlayLevel: PIE: World Init took: (0.004520s)
+[2025.05.22-15.48.49:297][598]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-15.48.49:298][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-15.48.49:298][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-15.48.49:298][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-15.48.49:298][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-15.48.49:298][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-15.48.49:300][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-15.48.49:401][598]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.05.22-15.48.49:402][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-15.48.49:402][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-15.48.49:402][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-15.48.49:402][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.05.22-15.48.49:402][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.05.22-15.48.49:406][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.05.22-15.48.49:406][598]LogInit: FAudioDevice initialized with ID 13.
+[2025.05.22-15.48.49:406][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.05.22-15.48.49:406][598]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.05.22-15.48.49:406][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.22-15.48.49:408][598]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-15.48.49:413][598]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.22-10.48.49
+[2025.05.22-15.48.49:413][598]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Can't see player[0]> Failed to find key 'CanSee' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Move To[0]> Failed to find key 'Posicion1' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Move To[0]> Failed to find key 'Posicion2' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Move To[0]> Failed to find key 'Posicion3' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Move To[0]> Failed to find key 'Posicion4' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Move To[0]> Failed to find key 'Posicion5' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Move To[0]> Failed to find key 'Posicion6' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogBehaviorTree: Warning: MiArbol::Can see player[0]> Failed to find key 'CanSee' in BB asset BlackboardData /Game/Characters/Enano/NPC/BB_Enemy.BB_Enemy. BB Key Selector will be set to 'Invalid'
+[2025.05.22-15.48.49:414][598]LogWorld: Bringing up level for play took: 0.007311
+[2025.05.22-15.48.49:418][598]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.05.22-15.48.49:422][598]PIE: Server logged in
+[2025.05.22-15.48.49:424][598]PIE: Play in editor total start time 0,18 seconds.
+[2025.05.22-15.48.49:427][598]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.49:427][598]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.49:427][598]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.49:427][598]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.49:427][598]LogScript: Warning: Script Msg: AICENEMY_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.05.22-15.48.49:427][598]LogScript: Warning: Script Msg called by: AICENEMY_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.AICENEMY_C_0
+[2025.05.22-15.48.55:260][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.48.55:260][682]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-15.48.55:260][682]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-15.48.55:261][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.48.55:261][682]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-15.48.55:343][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-15.48.55:349][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-15.48.55:376][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.22-15.48.55:376][682]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.22-15.48.55:376][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.22-15.48.55:378][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.22-15.48.55:383][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-15.48.55:387][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.22-15.48.55:394][682]LogAudio: Warning: 'Can Play Multiple Instances' disabled: Sound 'YokaiSounds' set to looping
+[2025.05.22-15.48.55:525][683]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.05.22-15.49.00:880][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-15.49.00:952][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapas/Nicolas/Arbol/MiArbol] ([1] browsable assets)...
+[2025.05.22-15.49.00:952][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapas/Nicolas/Arbol/MiArbol]
+[2025.05.22-15.49.00:952][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Nicolas/Arbol/MiArbol" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/MiArbol.uasset" SILENT=true
+[2025.05.22-15.49.00:956][939]LogSavePackage: Moving output files for package: /Game/Mapas/Nicolas/Arbol/MiArbol
+[2025.05.22-15.49.00:958][939]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/MiArbol0E5EFC20425DF4DF1134F695A18012E6.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Mapas/Nicolas/Arbol/MiArbol.uasset'
+[2025.05.22-15.49.00:965][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.521 ms (total: 7.40 sec)
+[2025.05.22-15.49.01:033][939]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-15.49.01:033][939]LogContentValidation: Enabled validators:
+[2025.05.22-15.49.01:033][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-15.49.01:033][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-15.49.01:033][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-15.49.01:033][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-15.49.01:033][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-15.49.01:033][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-15.49.01:033][939]AssetCheck: /Game/Mapas/Nicolas/Arbol/MiArbol Validating asset
+[2025.05.22-15.49.01:937][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1730.706787
+[2025.05.22-15.49.02:086][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-15.49.02:086][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1730.839966, Update Interval: 342.309631
