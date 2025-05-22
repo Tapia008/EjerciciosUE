@@ -5688,3 +5688,439 @@ Script Stack (0 frames) :
 [2025.05.22-15.49.01:937][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1730.706787
 [2025.05.22-15.49.02:086][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.22-15.49.02:086][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1730.839966, Update Interval: 342.309631
+[2025.05.22-15.52.26:550][349]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Jump.IA_Jump
+[2025.05.22-15.55.17:256][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2106.024170
+[2025.05.22-15.55.18:255][ 57]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-15.55.18:255][ 57]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2106.689941, Update Interval: 306.630463
+[2025.05.22-15.57.17:831][524]LogHttp: Warning: 00000A7B5F5C7E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 0 (Found bundle for host: 0xa78800402a0 [serially])
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 6 (Closing connection)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1474D2F9-419F-C91F-F5B6-6B925ABC2830%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 9 (  Trying 18.208.113.82:443...)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.208.113.82) port 443)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 12 (SSL reusing session ID)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 23 (Server certificate:)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.05.22-15.57.17:832][524]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.05.22-15.57.17:832][525]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.05.22-15.57.17:832][525]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.05.22-15.57.17:832][525]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 30 (using HTTP/1.1)
+[2025.05.22-15.57.17:832][525]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.05.22-15.57.17:832][525]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 32 (Closing connection)
+[2025.05.22-15.57.17:832][525]LogHttp: Warning: 00000A7B5F5C7E00: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.22-16.00.32:196][892]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Mounstro/YOKAI.YOKAI
+[2025.05.22-16.00.32:196][892]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.05.22-16.01.00:937][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2449.696289
+[2025.05.22-16.01.01:954][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-16.01.01:954][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2450.363770, Update Interval: 356.938385
+[2025.05.22-16.01.19:016][961]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.03.41:443][361]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_16
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.03.41:686][380]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_17
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.03.41:729][381]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_18
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.03.41:856][388]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_19
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.03.41:873][389]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_20
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.03.41:888][390]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_21
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.03.43:643][542]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.05.22-16.03.43:718][543]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.05.22-16.03.43:745][544]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.05.22-16.04.23:924][502]LogEOSSDK: Warning: LogHttp: 00000A7B1D6F1200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=B45FDBE44FA65232452696887B7EE41A, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.22-16.04.23:924][502]LogEOSSDK: Warning: LogHttp: 00000A7B1D6F1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.22-16.04.23:924][503]LogEOSSDK: Warning: LogHttp: 00000A7B1D6F1200: libcurl info message cache 0 (Found bundle for host: 0xa7ab9080090 [serially])
+[2025.05.22-16.04.23:924][503]LogEOSSDK: Warning: LogHttp: 00000A7B1D6F1200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.22-16.04.23:924][503]LogEOSSDK: Warning: LogHttp: 00000A7B1D6F1200: libcurl info message cache 2 (Closing connection)
+[2025.05.22-16.04.23:924][503]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=B45FDBE44FA65232452696887B7EE41A
+[2025.05.22-16.04.24:930][595]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=B45FDBE44FA65232452696887B7EE41A
+[2025.05.22-16.04.28:532][629]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=B45FDBE44FA65232452696887B7EE41A
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 0 (Found bundle for host: 0xa7880040540 [serially])
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 6 (Closing connection)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.22-16.04.28:864][630]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1474D2F9-419F-C91F-F5B6-6B925ABC2830%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.05.22-16.04.28:864][631]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.22-16.04.28:864][631]LogHttp: Warning: 00000A7B7A9A8C00: libcurl info message cache 10 (Closing connection)
+[2025.05.22-16.06.04:080][584]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00D0
+[2025.05.22-16.06.04:081][584]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:00FF
+[2025.05.22-16.06.04:081][584]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:015A
+[2025.05.22-16.06.04:081][584]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0199
+[2025.05.22-16.06.04:081][584]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:01F8
+[2025.05.22-16.06.04:081][584]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:0227
+[2025.05.22-16.06.04:081][584]LogScript: Warning: Accessed None trying to read property Movement
+	ABP_Enanito_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enanito_C_22
+	Function /Game/Characters/Enano/ABP_Enanito.ABP_Enanito_C:ExecuteUbergraph_ABP_Enanito:02AD
+[2025.05.22-16.06.20:512][860]LogContentBrowser: Attempting asset rename: UW_Heatlhbar -> UW_HeatlhbarChar
+[2025.05.22-16.06.20:604][860]LogMetaData: Removing '/Game/Characters/Enano/UW_HeatlhbarChar.UW_HeatlhbarChar_C' ref from Metadata '/Game/Characters/Enano/UW_Heatlhbar.PackageMetaData'
+[2025.05.22-16.06.20:604][860]LogMetaData: Removing '/Game/Characters/Enano/UW_HeatlhbarChar.SKEL_UW_HeatlhbarChar_C' ref from Metadata '/Game/Characters/Enano/UW_Heatlhbar.PackageMetaData'
+[2025.05.22-16.06.20:604][860]LogMetaData: Removing '/Game/Characters/Enano/UW_HeatlhbarChar.UW_HeatlhbarChar:HealthBarCalculation.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Enano/UW_Heatlhbar.PackageMetaData'
+[2025.05.22-16.06.20:604][860]LogMetaData: Removing '/Game/Characters/Enano/UW_HeatlhbarChar.UW_HeatlhbarChar:Get_Healthbar_Percent.K2Node_FunctionResult_1' ref from Metadata '/Game/Characters/Enano/UW_Heatlhbar.PackageMetaData'
+[2025.05.22-16.06.20:604][860]LogMetaData: Removing '/Game/Characters/Enano/UW_HeatlhbarChar.UW_HeatlhbarChar:Get_Healthbar_Percent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Enano/UW_Heatlhbar.PackageMetaData'
+[2025.05.22-16.06.20:620][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.06.20:620][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enano/UW_HeatlhbarChar] ([2] browsable assets)...
+[2025.05.22-16.06.20:620][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enano/UW_HeatlhbarChar]
+[2025.05.22-16.06.20:620][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enano/UW_HeatlhbarChar" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/UW_HeatlhbarChar.uasset" SILENT=true
+[2025.05.22-16.06.20:626][860]LogSavePackage: Moving output files for package: /Game/Characters/Enano/UW_HeatlhbarChar
+[2025.05.22-16.06.20:626][860]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/UW_HeatlhbarChar4C5333224699139C9D942CAC888A43FC.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/UW_HeatlhbarChar.uasset'
+[2025.05.22-16.06.20:632][860]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enano/UW_HeatlhbarChar.
+[2025.05.22-16.06.20:643][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enano/UW_Heatlhbar] ([5] browsable assets)...
+[2025.05.22-16.06.20:643][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enano/UW_Heatlhbar]
+[2025.05.22-16.06.20:643][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enano/UW_Heatlhbar" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/UW_Heatlhbar.uasset" SILENT=true
+[2025.05.22-16.06.20:644][860]LogSavePackage: Moving output files for package: /Game/Characters/Enano/UW_Heatlhbar
+[2025.05.22-16.06.20:644][860]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/UW_HeatlhbarC1DB0E774BEC3A389DB9DCAAFE5D67FF.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/UW_Heatlhbar.uasset'
+[2025.05.22-16.06.20:647][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.672 ms (total: 7.42 sec)
+[2025.05.22-16.06.20:716][860]LogContentValidation: Display: Starting to validate 4 assets
+[2025.05.22-16.06.20:716][860]LogContentValidation: Enabled validators:
+[2025.05.22-16.06.20:716][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-16.06.20:716][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-16.06.20:716][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-16.06.20:716][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-16.06.20:716][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-16.06.20:716][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-16.06.20:716][860]AssetCheck: /Game/Characters/Enano/UW_HeatlhbarChar Validating asset
+[2025.05.22-16.06.20:716][860]AssetCheck: /Game/Characters/Enano/UW_Heatlhbar Validating asset
+[2025.05.22-16.06.20:716][860]AssetCheck: /Game/Characters/Enano/UW_Heatlhbar Validating asset
+[2025.05.22-16.06.20:718][860]AssetCheck: /Game/Characters/Enano/UW_Heatlhbar Validating asset
+[2025.05.22-16.06.33:117][828]LogContentBrowser: Attempting asset rename: Healthbar -> UW_HealthbarEne
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.UW_HealthbarEne_C' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.SKEL_UW_HealthbarEne_C' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.SKEL_UW_HealthbarEne_C:PreConstruct' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.SKEL_UW_HealthbarEne_C:Construct' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.SKEL_UW_HealthbarEne_C:Tick' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.UW_HealthbarEne:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.UW_HealthbarEne:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:208][828]LogMetaData: Removing '/Game/Characters/Enano/UW_HealthbarEne.UW_HealthbarEne:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Characters/Enano/Healthbar.PackageMetaData'
+[2025.05.22-16.06.33:209][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.06.33:209][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Enano/BP_Enemigo] ([2] browsable assets)...
+[2025.05.22-16.06.33:273][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Enano/BP_Enemigo.BP_Enemigo]
+[2025.05.22-16.06.33:273][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enano/BP_Enemigo]
+[2025.05.22-16.06.33:273][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enano/BP_Enemigo" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/BP_Enemigo.uasset" SILENT=true
+[2025.05.22-16.06.33:283][828]LogSavePackage: Moving output files for package: /Game/Characters/Enano/BP_Enemigo
+[2025.05.22-16.06.33:284][828]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/BP_EnemigoBDAB3DDA44104CAFFCEDFCBDD4A21391.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/BP_Enemigo.uasset'
+[2025.05.22-16.06.33:285][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enano/UW_HealthbarEne] ([2] browsable assets)...
+[2025.05.22-16.06.33:285][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enano/UW_HealthbarEne]
+[2025.05.22-16.06.33:285][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enano/UW_HealthbarEne" FILE="D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/UW_HealthbarEne.uasset" SILENT=true
+[2025.05.22-16.06.33:288][828]LogSavePackage: Moving output files for package: /Game/Characters/Enano/UW_HealthbarEne
+[2025.05.22-16.06.33:288][828]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/UW_HealthbarEne4F12FBC8416638F92B82148A0BE1C99F.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/Characters/Enano/UW_HealthbarEne.uasset'
+[2025.05.22-16.06.33:293][828]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enano/UW_HealthbarEne.
+[2025.05.22-16.06.33:294][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.381 ms (total: 7.51 sec)
+[2025.05.22-16.06.33:436][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.22-16.06.33:462][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.22-16.06.33:483][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-16.06.33:544][828]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.22-16.06.33:544][828]LogContentValidation: Enabled validators:
+[2025.05.22-16.06.33:544][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-16.06.33:544][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-16.06.33:544][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-16.06.33:544][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-16.06.33:544][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-16.06.33:544][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-16.06.33:544][828]AssetCheck: /Game/Characters/Enano/BP_Enemigo Validating asset
+[2025.05.22-16.06.33:544][828]AssetCheck: /Game/Characters/Enano/UW_HealthbarEne Validating asset
+[2025.05.22-16.07.12:946][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.22-16.07.12:954][308]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2
+[2025.05.22-16.07.12:954][308]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ThirdPersonMap_Auto2675608E94A229D3422016FA7AB9ADDA9.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2.umap'
+[2025.05.22-16.07.12:965][308]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2025.05.22-16.07.12:965][308]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2025.05.22-16.07.34:861][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2843.625000
+[2025.05.22-16.07.35:860][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-16.07.35:860][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2844.291992, Update Interval: 324.756622
+[2025.05.22-16.11.01:584][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.22-16.11.03:802][485]LogSlate: Window 'Save Content' being destroyed
+[2025.05.22-16.11.03:809][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-16.11.03:919][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-16.11.03:926][485]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2025.05.22-16.11.03:926][485]LogSavePackage: Moving 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Saved/ThirdPersonMap9B035C524410E5D26D5B259C253606CD.tmp' to 'D:/Users/Bibiana Tapia/Documents/EjerciciosUE/Actividad/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2025.05.22-16.11.03:934][485]LogFileHelpers: All files are already saved.
+[2025.05.22-16.11.03:935][485]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.059
+[2025.05.22-16.11.03:944][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.749 ms (total: 7.64 sec)
+[2025.05.22-16.11.03:992][485]LogStall: Shutdown...
+[2025.05.22-16.11.03:992][485]LogStall: Shutdown complete.
+[2025.05.22-16.11.04:047][485]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:047][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:135][485]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:135][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:190][485]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.22-16.11.04:190][485]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:190][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:248][485]LogSlate: Window 'Actividad - Unreal Editor' being destroyed
+[2025.05.22-16.11.04:250][485]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.05.22-16.11.04:467][485]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-16.11.04:467][485]LogContentValidation: Enabled validators:
+[2025.05.22-16.11.04:467][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-16.11.04:467][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-16.11.04:467][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-16.11.04:467][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-16.11.04:467][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-16.11.04:467][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-16.11.04:467][485]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.05.22-16.11.04:510][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.22-16.11.04:535][485]Cmd: QUIT_EDITOR
+[2025.05.22-16.11.04:535][486]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.22-16.11.04:545][486]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.22-16.11.04:546][486]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.22-16.11.04:546][486]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.22-16.11.04:550][486]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:550][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:550][486]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.05.22-16.11.04:566][486]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.22-16.11.04:570][486]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.22-16.11.04:585][486]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:585][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:589][486]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:590][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:594][486]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:594][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:598][486]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:598][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:602][486]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:602][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:607][486]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:608][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:613][486]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:613][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:617][486]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:618][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:621][486]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:622][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:626][486]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:626][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:630][486]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:630][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:635][486]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:635][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:639][486]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:639][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:642][486]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:643][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:646][486]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:646][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:650][486]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:650][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:654][486]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:654][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:657][486]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:657][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:660][486]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:660][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:664][486]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:664][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:668][486]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:668][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:671][486]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:671][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:685][486]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:685][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:689][486]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-16.11.04:689][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-16.11.04:698][486]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.22-16.11.04:702][486]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.22-16.11.04:702][486]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.22-16.11.04:702][486]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.22-16.11.04:857][486]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.22-16.11.04:857][486]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.22-16.11.04:857][486]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.05.22-16.11.04:857][486]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.22-16.11.04:857][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.22-16.11.04:859][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.22-16.11.04:870][486]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.22-16.11.04:870][486]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.22-16.11.04:874][486]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.22-16.11.04:874][486]LogExit: Preparing to exit.
+[2025.05.22-16.11.04:926][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.05.22-16.11.04:930][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:930][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:930][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.04:931][486]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.22-16.11.05:969][486]LogEditorDataStorage: Deinitializing
+[2025.05.22-16.11.06:222][486]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.22-16.11.06:277][486]LogExit: Editor shut down
+[2025.05.22-16.11.06:281][486]LogExit: Transaction tracking system shut down
+[2025.05.22-16.11.06:764][486]LogExit: Object subsystem successfully closed.
+[2025.05.22-16.11.06:819][486]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.22-16.11.07:963][486]LogMemoryProfiler: Shutdown
+[2025.05.22-16.11.07:964][486]LogNetworkingProfiler: Shutdown
+[2025.05.22-16.11.07:964][486]LoadingProfiler: Shutdown
+[2025.05.22-16.11.07:964][486]LogTimingProfiler: Shutdown
+[2025.05.22-16.11.08:409][486]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.22-16.11.08:450][486]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.22-16.11.08:451][486]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1474D2F9-419F-C91F-F5B6-6B925ABC2830%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.22-16.11.08:451][486]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.22-16.11.08:951][486]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.22-16.11.09:453][486]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.22-16.11.09:953][486]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.22-16.11.10:454][486]LogHttp: Warning: [FHttpManager::Flush] FlushTimeSoftLimitSeconds [2.000s] exceeded. Cancelling 1 outstanding HTTP requests:
+[2025.05.22-16.11.10:454][486]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1474D2F9-419F-C91F-F5B6-6B925ABC2830%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.22-16.11.10:454][486]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.22-16.11.10:954][486]LogHttp: Warning: [FHttpManager::Flush] FlushTimeSoftLimitSeconds [2.000s] exceeded. Cancelling 1 outstanding HTTP requests:
+[2025.05.22-16.11.10:954][486]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1474D2F9-419F-C91F-F5B6-6B925ABC2830%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=7fab59d34f9be9272ad59ab04ef1b668%7Caad3d9b338fc4d7f836d17dfa213509e%7C3012657c-2e2c-4b52-954f-085227d69e45&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
